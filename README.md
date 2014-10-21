@@ -1,9 +1,6 @@
 rh-connect-guard
 ================
 
-rh-connect-guard
-================
-
 [![NPM](https://nodei.co/npm/rh-connect-guard.png)](https://nodei.co/npm/rh-connect-guard/)
 
 Install the module with:
