@@ -12,7 +12,7 @@ Example usage:
 
 ```javascript
 var express = require('express');
-var guard = require('rh-node-utils').guard;
+var utils = require('rh-node-utils');
 var app = express();
 var env = process.env.NODE_ENV || 'development';
 if ('production' === env) {
