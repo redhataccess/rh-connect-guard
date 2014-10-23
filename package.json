@@ -1,16 +1,16 @@
 {
-  "name": "rh-connect-guard",
+  "name": "rh-node-utils",
   "version": "0.0.1",
   "description": "Middleware to guard itos",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/redhataccess/rh-connect-guard.git"
+    "url": "https://github.com/redhataccess/rh-node-utils.git"
   },
   "author": "Connor Hindley <connor@redhat.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/redhataccess/rh-connect-guard/issues"
+    "url": "https://github.com/redhataccess/rh-node-utils/issues"
   },
-  "homepage": "https://github.com/redhataccess/rh-connect-guard"
+  "homepage": "https://github.com/redhataccess/rh-node-utils"
 }
