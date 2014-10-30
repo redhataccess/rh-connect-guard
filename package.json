@@ -12,5 +12,9 @@
   "bugs": {
     "url": "https://github.com/redhataccess/rh-node-utils/issues"
   },
-  "homepage": "https://github.com/redhataccess/rh-node-utils"
+  "homepage": "https://github.com/redhataccess/rh-node-utils",
+  "dependencies": {
+    "node-cache": "~1.0.2",
+    "request": "~2.47.0"
+  }
 }
