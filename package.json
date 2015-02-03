@@ -1,6 +1,6 @@
 {
   "name": "rh-node-utils",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "Middleware to guard itos",
   "main": "index.js",
   "repository": {
