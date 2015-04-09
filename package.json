@@ -1,7 +1,7 @@
 {
   "name": "rh-node-utils",
   "version": "0.1.4",
-  "description": "Middleware to guard itos",
+  "description": "Shared Node Red Hat Utilities",
   "main": "index.js",
   "repository": {
     "type": "git",
