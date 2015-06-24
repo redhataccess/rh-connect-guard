@@ -1,6 +1,6 @@
 {
   "name": "rh-node-utils",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "description": "Shared Node Red Hat Utilities",
   "main": "index.js",
   "repository": {
